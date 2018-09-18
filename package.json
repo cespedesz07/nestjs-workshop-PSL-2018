@@ -1,0 +1,25 @@
+{
+  "name": "nestjs-project",
+  "version": "1.0.0",
+  "description": "This is a workshop about NestJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cespedesz07/nestjs-workshop-PSL-2018.git"
+  },
+  "keywords": [
+    "api",
+    "fojo",
+    "practice",
+    "NestJS"
+  ],
+  "author": "cespedesz07@gmail.com (cespedesz07)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cespedesz07/nestjs-workshop-PSL-2018/issues"
+  },
+  "homepage": "https://github.com/cespedesz07/nestjs-workshop-PSL-2018#readme"
+}
